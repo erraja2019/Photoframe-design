@@ -1,0 +1,31 @@
+git clone https://github.com/erraja2019/Photoframe-design.git(code -> ssh)
+
+git config --global user.name "Raja"
+
+git config --global user.email  "erraja2019"
+
+git config --list
+
+ls -a --> list all files including hidden files
+
+
+git status
+
+untracked --> new files that git doesn't yet track
+
+modified --> changed
+
+staged --> file is ready to be commited
+
+unmodified --> unchanged
+
+
+add --> adds new or changed files in your working directory to the git staging area
+
+git add <file name> or git add . (To add all changed files)
+
+
+
+
+
+
